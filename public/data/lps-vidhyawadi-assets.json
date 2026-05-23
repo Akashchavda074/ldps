@@ -1,0 +1,118 @@
+{
+  "capturedFrom": "https://www.lpsvidhyawadi.com/",
+  "createdAt": "2026-05-04T19:39:35.412Z",
+  "assets": [
+    {
+      "file": "logo.jpg",
+      "src": "/lps-vidhyawadi/logo.jpg",
+      "alt": "School logo",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Leela_Devi_College_Logo.jpg",
+      "bytes": 33147
+    },
+    {
+      "file": "about-banner.jpg",
+      "src": "/lps-vidhyawadi/about-banner.jpg",
+      "alt": "Campus banner",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/aboutBanner.jpg",
+      "bytes": 330538
+    },
+    {
+      "file": "gallery-01.jpg",
+      "src": "/lps-vidhyawadi/gallery-01.jpg",
+      "alt": "Gallery image 1",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_14052024102942506.jpg",
+      "bytes": 518703
+    },
+    {
+      "file": "gallery-02.jpg",
+      "src": "/lps-vidhyawadi/gallery-02.jpg",
+      "alt": "Gallery image 2",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_14052024102942366.jpg",
+      "bytes": 452059
+    },
+    {
+      "file": "gallery-03.jpg",
+      "src": "/lps-vidhyawadi/gallery-03.jpg",
+      "alt": "Gallery image 3",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_14052024102942147.jpg",
+      "bytes": 487393
+    },
+    {
+      "file": "gallery-04.jpg",
+      "src": "/lps-vidhyawadi/gallery-04.jpg",
+      "alt": "Gallery image 4",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_20042024150143357.jpg",
+      "bytes": 107474
+    },
+    {
+      "file": "gallery-05.jpg",
+      "src": "/lps-vidhyawadi/gallery-05.jpg",
+      "alt": "Gallery image 5",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_20042024150009920.jpg",
+      "bytes": 229281
+    },
+    {
+      "file": "gallery-06.jpg",
+      "src": "/lps-vidhyawadi/gallery-06.jpg",
+      "alt": "Gallery image 6",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_20042024150008686.jpg",
+      "bytes": 169180
+    },
+    {
+      "file": "gallery-07.jpg",
+      "src": "/lps-vidhyawadi/gallery-07.jpg",
+      "alt": "Gallery image 7",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_20042024150007686.jpg",
+      "bytes": 619819
+    },
+    {
+      "file": "gallery-08.jpg",
+      "src": "/lps-vidhyawadi/gallery-08.jpg",
+      "alt": "Gallery image 8",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_20042024145912196.jpg",
+      "bytes": 197627
+    },
+    {
+      "file": "gallery-09.jpg",
+      "src": "/lps-vidhyawadi/gallery-09.jpg",
+      "alt": "Gallery image 9",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_20042024145911134.jpg",
+      "bytes": 544196
+    },
+    {
+      "file": "gallery-10.jpg",
+      "src": "/lps-vidhyawadi/gallery-10.jpg",
+      "alt": "Gallery image 10",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_20042024145910131.jpg",
+      "bytes": 874489
+    },
+    {
+      "file": "gallery-11.jpg",
+      "src": "/lps-vidhyawadi/gallery-11.jpg",
+      "alt": "Gallery image 11",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_20042024145908802.jpg",
+      "bytes": 577068
+    },
+    {
+      "file": "gallery-12.jpg",
+      "src": "/lps-vidhyawadi/gallery-12.jpg",
+      "alt": "Gallery image 12",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/Gallery/Large/_20042024145746808.jpg",
+      "bytes": 66415
+    },
+    {
+      "file": "phone.png",
+      "src": "/lps-vidhyawadi/phone.png",
+      "alt": "Phone icon",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/phoneNo.png",
+      "bytes": 2397
+    },
+    {
+      "file": "email.png",
+      "src": "/lps-vidhyawadi/email.png",
+      "alt": "Email icon",
+      "sourceUrl": "https://www.lpsvidhyawadi.com/Images/emaiId.png",
+      "bytes": 1957
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+import React from "react";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
+import PhotoGalleryClient from "@/components/PhotoGalleryClient";
+
+export const metadata = {
+  title: "Official Photo Gallery | LPS Vidyawadi",
+  description:
+    "Explore the visual journey of Leeladevi Parasmal Sancheti English Medium Sr. Sec. School. View high-quality images of our campus facilities, hostel life, academic events, and school achievements.",
+  keywords: [
+    "LPS Vidyawadi gallery",
+    "photo gallery",
+    "Sancheti school photos",
+    "Vidyawadi campus images",
+    "school life",
+    "hostel photos",
+    "cultural events",
+  ],
+  openGraph: {
+    title: "Official Photo Gallery | LPS Vidyawadi",
+    description:
+      "Explore the visual journey of Leeladevi Parasmal Sancheti English Medium Sr. Sec. School. View high-quality images of our campus life and achievements.",
+    type: "website",
+    locale: "en_US",
+    siteName: "LPS Vidyawadi",
+  },
+};
+
+export default function PhotoGalleryPage() {
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-[#F8F9FC] via-white to-[#7678ED]/5 flex flex-col">
+      <Navbar />
+
+      {/* Main Page Area */}
+      <main className="flex-grow pt-32 md:pt-40 pb-20 px-6 relative z-10">
+        <div className="max-w-7xl mx-auto">
+          {/* Polaroid Page Header with gold accent line matching Gang School's UI */}
+          <div className="relative inline-block mb-10 text-left">
+            <h1 className="text-3xl md:text-5xl font-black text-[#3D348B] tracking-tight uppercase">
+              Photo Gallery
+            </h1>
+            <div className="w-16 h-1.5 bg-[#F7B801] mt-3 rounded-full shadow-sm" />
+          </div>
+
+          {/* Interactive Custom Photo Gallery Card Grid and Lightbox Component */}
+          <PhotoGalleryClient />
+        </div>
+      </main>
+
+      <Footer />
+    </div>
+  );
+}

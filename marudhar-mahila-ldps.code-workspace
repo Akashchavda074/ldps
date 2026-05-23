@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"window.autoDetectColorScheme": true,
+		"debug.allowBreakpointsEverywhere": false,
+		"terminal.integrated.allowMnemonics": true
+	}
+}
